@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{0B7DE1E9-A479-2F75-5CE3-C68DE2A89690}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5da38928-87bf-44db-bfb3-dedc474ace96" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BirdJump.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MakePipe.cs" Line="40" Column="36" />
+      <File FileName="Assets/Scripts/Score.cs" Line="17" Column="19" />
+      <File FileName="Assets/Scripts/ScoreUp.cs" Line="11" Column="6" />
+      <File FileName="Assets/Scripts/BirdJump.cs" Line="24" Column="48" />
+      <File FileName="Assets/Scripts/Replay.cs" Line="9" Column="17" />
+      <File FileName="Assets/Scripts/CurrentScore.cs" Line="11" Column="84" />
+      <File FileName="Assets/Scripts/BestScore.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/Move.cs" Line="13" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FlappyClone" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="BirdJump.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Packages" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

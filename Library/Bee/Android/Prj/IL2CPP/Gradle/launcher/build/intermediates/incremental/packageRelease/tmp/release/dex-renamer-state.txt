@@ -1,0 +1,4 @@
+#Sat Nov 05 14:30:53 KST 2022
+base.0=/Users/jueon/Desktop/UnityStudy/FlappyClone/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
